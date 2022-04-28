@@ -1,6 +1,6 @@
 - 👋 Oi, Eu sou Lucas @LucasBSS
 - 👀 Estou interessado no mundo javascript e HTML Canvas
-- 🌱 Atualmente estou aprendendo a criar games
+- 🌱 Atualmente estou aprendendo a desenvolver aplicações web
 - 💞️ Tenho interesse em colaborar em projetos javascript
 - 📫 Meu contato lucasbarrosilv@gmail.com
 
